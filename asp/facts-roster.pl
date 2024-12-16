@@ -49,6 +49,21 @@ employee(laura, 5).
 -available(philine, d28).
 
 % Alissia unavailability
+-available(alissia, d8).
+-available(alissia, d9).
+-available(alissia, d10).
+-available(alissia, d13).
+-available(alissia, d15).
+-available(alissia, d16).
+-available(alissia, d17).
+-available(alissia, d20).
+-available(alissia, d22).
+-available(alissia, d23).
+-available(alissia, d24).
+-available(alissia, d27).
+-available(alissia, d29).
+-available(alissia, d30).
+-available(alissia, d31).
 
 % Monika unavailability
 -available(monika, d3).
@@ -56,4 +71,14 @@ employee(laura, 5).
 -available(monika, d5).
 
 % Laura unavailability
+-available(laura, d4).
+-available(laura, d5).
+-available(laura, d6).
+-available(laura, d11).
+-available(laura, d12).
+-available(laura, d18).
+-available(laura, d19).
+-available(laura, d25).
+-available(laura, d26).
+
 
