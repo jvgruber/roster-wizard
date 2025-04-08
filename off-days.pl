@@ -1,0 +1,59 @@
+% michelle
+-available(michelle, d17).
+-available(michelle, d23).
+-available(michelle, d24).
+-available(michelle, d25).
+
+% fabian
+-available(fabian, d9).
+-available(fabian, d13).
+-available(fabian, d22).
+
+% oliver
+-available(oliver, d3).
+-available(oliver, d4).
+-available(oliver, d8).
+-available(oliver, d9).
+-available(oliver, d10).
+-available(oliver, d18).
+-available(oliver, d22).
+-available(oliver, d23).
+-available(oliver, d25).
+-available(oliver, d27).
+-available(oliver, d28).
+-available(oliver, d29).
+-available(oliver, d30).
+-available(oliver, d31).
+
+% philine
+-available(philine, d5).
+-available(philine, d6).
+-available(philine, d12).
+-available(philine, d13).
+-available(philine, d15).
+-available(philine, d17).
+-available(philine, d18).
+-available(philine, d19).
+-available(philine, d20).
+-available(philine, d24).
+
+% laura
+-available(laura, d2).
+-available(laura, d3).
+-available(laura, d4).
+-available(laura, d5).
+-available(laura, d9).
+-available(laura, d10).
+-available(laura, d11).
+-available(laura, d12).
+-available(laura, d16).
+-available(laura, d17).
+-available(laura, d18).
+-available(laura, d19).
+-available(laura, d23).
+-available(laura, d24).
+-available(laura, d25).
+-available(laura, d26).
+-available(laura, d30).
+-available(laura, d31).
+
